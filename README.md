@@ -24,7 +24,7 @@ sql-mastery/
 ## 📊 Progress
 | Platform | Easy | Medium | Hard |
 |---|---|---|---|
-| LeetCode | 0 | 0 | 0 |
+| LeetCode | 1 | 1 | 0 |
 | DataLemur | 1 | 0 | 0 |
 
 ---
