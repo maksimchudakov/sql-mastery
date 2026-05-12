@@ -4,6 +4,7 @@ Platform: (e.g. LeetCode / DataLemur style)
 Difficulty: Easy
 Tables: trades, users
 */
+
 -- Write a query to retrieve the top three cities that have the highest number
 -- of completed trade orders, ordered in descending order.
 
