@@ -4,6 +4,9 @@ Daily SQL problem solving using LeetCode and DataLemur — organized by difficul
 
 ## 📂 Structure
 sql-mastery/
+
+```
+
 │
 ├── leetcode/
 │   ├── easy/
@@ -13,6 +16,8 @@ sql-mastery/
 ├── easy/
 ├── medium/
 └── hard/
+
+```
 ---
 
 ## 📊 Progress
