@@ -4,7 +4,6 @@ Platform: DataLemur
 Company: NY Times
 Difficulty: Easy
 Link: https://datalemur.com/questions/laptop-mobile-viewership
-Date Solved: 2026-05-11
 */
 
 -- Calculate total viewership by device type
